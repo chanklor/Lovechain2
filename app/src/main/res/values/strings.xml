@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lovechain2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_home">Hello blank fragment Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_success">Hello blank fragment Success</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_calendar">Hello blank fragment Calendar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_profile">Hello blank fragment Profile</string>
+</resources>
